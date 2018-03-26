@@ -12,18 +12,18 @@
 
 <div class="jumbotron text-center">
   <h1>Sumário</h1>
-  <p>1.Componentes</p> 
 </div>
   
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+      <h3>COMPONENTES</h3>
+      <p>Integrantes do grupo: </p>
+      <p>Ingridy: ingridy676@gmail.com</p>
+	  <p>Isaque: isaquesiqueiraamaral@gmail.com</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
+      <h3>INTRODUÇÃO E MOTIVAÇÂO</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
